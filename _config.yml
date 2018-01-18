@@ -33,7 +33,7 @@ links:
     url: /
     external: false
     icon: home
-  - title: Posts Destacados
+  - title: Destacados
     url: /featured
   - title: Categorias
     url: /categories
@@ -113,12 +113,12 @@ prose:
               value: personal
             - name: "Engineering"
               value: engineering
-            - name: "Physics"
-              value: physics
-            - name: "Psychology"
-              value: psychology
-            - name: "Interesting"
-              value: interesting
+            - name: "Mobile"
+              value: mobile
+            - name: "DataBases"
+              value: databases
+            - name: "Productivity"
+              value: productivity
             - name: "Web-Development"
               value: webdevelopment
           alterable: true
@@ -126,7 +126,7 @@ prose:
         field:
           element: "text"
           label: "Tags"
-          placeholder: "Enter tags, separated by spaces"
+          placeholder: "android,web,c#,javascript,java,python"
       - name: "imagefeature"
         field:
           element: "text"
