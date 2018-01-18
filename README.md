@@ -13,23 +13,6 @@ Personal Blog in wich we'll try to talk about how programming world works
 ### About me:
 I'm a just a dev.
 
-## [Versión en Español]
 
-Blog personal en el que trataremos de hablar sobre como funciona el mundo de la programación.
-
-### Temas principales:
-
-* Lenguajes de Programación (C#, Java, JavaScript, Python) 
-* Web Services (Restful, GraphQL)
-* DataBases
-* Historias de programación 
-* Discuciones sobre temas geeks
-  
-
-### Sobre mi:
-Solo soy un desarrollador
-
-
-
-Credits / Creditos:
+Credits:
 * Notepad is a Jekyll theme which is very simple, clean and beautiful http://hmfaysal.github.io/Notepad/
