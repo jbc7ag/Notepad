@@ -1,7 +1,7 @@
-title:            Notepad
-description:      "Blogging is fun"
+title:            Jess
+description:      "Dev is fun"
 logo:             logo3.png
-disqus_shortname: hmfaysal
+disqus_shortname: disqus_R6gaf4iKvB
 share:            true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
@@ -10,18 +10,16 @@ share:            true
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Jessica B
   avatar:         hmfaysal.jpg
-  email:          you@email.com
+  email:          jbc7ag@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Awesome Dude, Awesome Life
+  description:    Awesome Life
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal      
-  instagram:      hmfaysal
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
+  twitter:        jbc7ag
+  facebook:       jbc7ag
+  github:         jbc7ag      
+
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
@@ -70,8 +68,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://hmfaysal.github.io/'
-  relativeLinks: 'http://hmfaysal.github.io/links.jsonp'
+  siteurl: 'http://jbc7ag.github.io/'
+  relativeLinks: 'http://jbc7ag.github.io/links.jsonp'
   media: 'images'
   metadata:
     _posts:
