@@ -33,11 +33,11 @@ links:
     url: /
     external: false
     icon: home
-  - title: Featured Posts
+  - title: Posts Destacados
     url: /featured
-  - title: Categories
+  - title: Categorias
     url: /categories
-  - title: About
+  - title: Acerca de
     url: /hossain-mohd-faysal
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
