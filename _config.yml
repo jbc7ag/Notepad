@@ -1,5 +1,5 @@
 title:            Jess
-description:      "Dev is fun"
+description:      "Be a dev, is fun"
 logo:             logo3.png
 disqus_shortname: disqus_R6gaf4iKvB
 share:            true
@@ -10,11 +10,11 @@ share:            true
 
 # Owner/author information
 owner:
-  name:           Jessica B
+  name:           Jess Barrientos
   avatar:         hmfaysal.jpg
   email:          jbc7ag@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Awesome Life
+  description:    Just a dev with an awesome life
   # Social networking links used in footer. Update and remove as you like.
   twitter:        jbc7ag
   facebook:       jbc7ag
