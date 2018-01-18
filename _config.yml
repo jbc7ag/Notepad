@@ -67,8 +67,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://jbc7ag.github.io/'
-  relativeLinks: 'http://jbc7ag.github.io/links.jsonp'
+  siteurl: 'https://jbc7ag.github.io/'
+  relativeLinks: 'https://jbc7ag.github.io/links.jsonp'
   media: 'images'
   metadata:
     _posts:
