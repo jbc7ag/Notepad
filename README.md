@@ -1,18 +1,17 @@
-## [English version]
 
-Personal Blog in wich we'll try to talk about how programming world works
+Blog personal en el que trataré de hablarles o compartirle mis experiencias en el extenso mundo de la programación
   
-### Main themes:
+### Temas principales:
 
-* Programming lenguages (.NET C#, Java, JavaScript, Pyhton...)
+* Lenguajes de Programación (.NET C#, Java, JavaScript, Pyhton...)
 * Web Services (Restful, GraphQL)
-* DataBases
-* Stories about programming 
-* Discusions about geek themes
+* Bases de datos
+* Recomendaciones (Mi simple opinion)
+* Historias
 
-### About me:
+### Sobre mí:
 I'm a just a dev.
 
 
-Credits:
+Créditos:
 * Notepad is a Jekyll theme which is very simple, clean and beautiful http://hmfaysal.github.io/Notepad/
