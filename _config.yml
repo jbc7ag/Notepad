@@ -37,9 +37,7 @@ links:
     url: /featured
   - title: Categorias
     url: /categories
-  - title: Acerca de
-    url: /hossain-mohd-faysal
-
+ 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Mexico_City
 future:      true
