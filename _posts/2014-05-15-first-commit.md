@@ -10,7 +10,7 @@ tags:
 imagefeature: "website-speed.jpg"
 imagecredit: spreadeffect.com
 imagecreditlink: "http://www.spreadeffect.com/blog/improve-website-speed/"
-comments: false
+comments: true
 mathjax: null
 featured: true
 published: true
