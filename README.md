@@ -9,7 +9,7 @@ A personal blog in wich I try to talk about progammig
 * Recomendations (Just my opinion)
 * Historys
 
-### Sobre mí:
+### About me:
 I'm a just a dev.
 
 
