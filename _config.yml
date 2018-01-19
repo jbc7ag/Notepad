@@ -1,7 +1,7 @@
 title:            Jess
 description:      "Be a dev, is fun"
 logo:             logo3.png
-disqus_shortname: jbc7ag.github.io
+disqus_shortname: jbc7ag-github-io
 share:            true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
