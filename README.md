@@ -7,7 +7,7 @@ A personal blog in wich I try to talk about progammig
 * Web Services (Restful, GraphQL)
 * Databases
 * Recomendations (Just my opinion)
-* Historys
+* Stories
 
 ### About me:
 I'm a just a dev.
