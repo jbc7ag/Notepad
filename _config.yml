@@ -1,4 +1,4 @@
-title:            Jess
+title:            
 description:      "Be a dev, is fun"
 logo:             logo3.png
 disqus_shortname: jbc7ag-github-io
@@ -10,7 +10,7 @@ share:            true
 
 # Owner/author information
 owner:
-  name:           Jess Barrientos
+  name:           Jessica Cruz
   avatar:         jbc.jpg
   email:          jbc7ag@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
